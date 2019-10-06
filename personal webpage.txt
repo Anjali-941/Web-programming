@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>HOME PAGE</title>
+</head>
+<body bgcolor="#F0F8FF">
+<h1 style="text-align:center;
+color:red;">HOMEPAGE</h1>
+<table style="width:100%">
+<tr>
+<th><a
+href="personal.html"><h3>Home</h3></a></th>
+<th><a href="edu.html"><h3>EDUCATIONAL
+QUALIFICATIONS</h3></a></th>
+<th><a href="contact.html"><h3>Contact
+us</h3></a></th>
+</tr>
+</table>
+<img src="girl.jpg" width="200"
+height="200">
+<p>Iam Anjali Venugopal. <br>
+    I was born in Adoor as the elder daughter of Mr Venugopalan Nair N and Mrs Maya Devi R . <br>
+    I have only one sister Aishwarya Venugopal.</p>
+</body>
+</html>

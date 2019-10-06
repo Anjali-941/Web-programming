@@ -1,0 +1,39 @@
+<html>
+<head>
+<script>
+function docheck()
+{
+var name=document.getElementById('txt1').value;
+ if (name == "") {
+    alert("Name must be filled out");
+    return false;
+}
+var email=document.getElementById('txt2').value;
+ if (email == "") {
+    alert("email must be filled out");
+    return false;
+}
+var pass=document.getElementById('txt3').value;
+ if (pass == "") {
+    alert("password must be filled out");
+    return false;
+}
+if (pass.length<8) {
+    alert("Password must have 8 characters");
+    return false;
+}
+
+alert("submitted successfully");
+}
+</script>
+</head>
+<body>
+<h1>REGISTRATION FORM</h1>
+<form name="frm" onsubmit="return docheck()" method="post">
+NAME<input type="text" id="txt1" name="txtname"><br>
+EMAIL<input type="email" id="txt2" name="email"><br>
+PASSWORD<input type="text" id="txt3" name="email"><br>
+<input type="submit" value="submit" name="validate">
+</form>
+</body>
+</html>

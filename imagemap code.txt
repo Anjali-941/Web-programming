@@ -1,0 +1,19 @@
+
+<html>
+    <body>
+        <h2>Image Map</h2>
+        <p>Click on the cpu , monitor , keyboard or mouse</p>
+        <img src="comp1.jpg" usemap="#workplace">
+        <map name="workplace">
+            <area shape="rect" coords="34,310,500,490" href="keyboard.html" >
+           
+            <area shape="rect" coords="200,24,565,300" href="monitor.html" >
+          <area shape="rect" coords="14,30,244,309" href="cpu.html" >
+    
+            <area shape="rect" coords="505,315,555,490" href="mouse.html" >
+            
+        </map>
+
+            
+    </body>
+</html>

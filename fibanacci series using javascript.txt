@@ -1,0 +1,33 @@
+
+	<html>
+            <head>
+            <script>
+             
+                //usage
+                function doFib(){
+                    var n = document.getElementById('num').value;
+                fibanacci(n);
+                }
+                
+                
+                function fibanacci(n){
+                    var a=0;
+                    var b=1;
+                    var c;
+                    while(a<=n)
+                    {
+                        document.write(a + "<br/>");
+                        c=a+b;
+                        a=b;
+                        b=c;
+                    }
+                }
+                
+            </script>
+           </head>
+            <body>
+                <h3>fibanacci</h3>
+                <input type="text" id="num" value="enter limit"/>
+                <button id="btn" onClick="doFib()" >fib</button>
+            </body>
+            </html>

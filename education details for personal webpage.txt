@@ -1,0 +1,46 @@
+<html>
+<head>
+
+<title>EDUCATIONAL QUALIFICATIONS</title>
+</head>
+<body bgcolor="#DCDCDC">
+<h1 style="text-align:center;
+color:#000080;">EDUCATIONAL QUALIFICATIONS</h1>
+<table style="width:100%">
+<tr>
+<th><a
+href="personal.html"><h3>Home</h3></a></th>
+<th><a href="edu.html"><h3>EDUCATIONAL
+QUALIFICATIONS</h3></a></th>
+<th><a href="contact.html"><h3>Contact
+us</h3></a></th>
+</tr>
+</table>
+<table border="1">
+<tr>
+<th>QUALIFICATION</th>
+<th>SCHOOL/COLLEGE</th>
+<th>YEAR</th>
+<th>CGPA</th>
+</tr>
+<tr>
+<td>10TH</td>
+<td>Holy Angel's E.M.H.S.S Adoor</td>
+<td>2014</td>
+<td>95</td>
+</tr>
+<tr>
+<td>12TH</td>
+<td>Govt.Girl's H.S.S Adoor</td>
+<td>2016</td>
+<td>92</td>
+</tr>
+<tr>
+<td>BCA</td>
+<td>IHRD College Of Applied Science Adoor</td>
+<td>2018</td>
+<td>8.68 <br><br><B><font color="red">SECOND RANK HOLDER IN KERALA UNIVERSITY 2019<B></td></font>
+</tr>
+</table>
+</body>
+</html>
